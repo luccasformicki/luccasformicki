@@ -18,6 +18,7 @@
       </a>
   </p>
 
+[![Spotify](https://novatorem-pi-ecru.vercel.app/api/spotify)](https://open.spotify.com/user/215mtsb2pvzb3fopchg6emdrq?si=MFv9hCzGT9an-sbVdbFC_g)
   ## About me
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccasformicki&color=yellow" alt="Profile views" /> </p>
