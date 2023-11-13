@@ -18,7 +18,6 @@
       </a>
   </p>
 
-[![Spotify](https://novatorem-pi-ecru.vercel.app/api/spotify)](https://open.spotify.com/user/215mtsb2pvzb3fopchg6emdrq?si=MFv9hCzGT9an-sbVdbFC_g)
   ## About me
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccasformicki&color=yellow" alt="Profile views" /> </p>
@@ -47,4 +46,5 @@ A fun fact about me: I'm a hardware enthusiast, fascinated by the gears that dri
 ![SalesForce](https://img.shields.io/badge/-SalesForce-0D1117?style=for-the-badge&logo=SalesForce&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
+### Listening to Spotify 🎧
+[![Spotify](https://novatorem-pi-ecru.vercel.app/api/spotify)](https://open.spotify.com/user/215mtsb2pvzb3fopchg6emdrq?si=MFv9hCzGT9an-sbVdbFC_g)
