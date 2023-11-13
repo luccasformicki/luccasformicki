@@ -4,17 +4,18 @@
   </div>
 
   <p align="center">
-     <a href="https://www.linkedin.com/in/luccas-formicki">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" title="LinkedIn" target="_blank">
-     </a>
-       <a href="https://www.instagram.com/_woodnotfound/">
-    <img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" title="instagram" target="_blank">
-  </a>
-    <a href="https://steamcommunity.com/profiles/76561199027125330/">
-     <img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="Steam" title="Steam" target="_blank">
+    <a href="https://www.linkedin.com/in/luccas-formicki" target="blank">
+        <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" title="LinkedIn" target="_blank">
     </a>
-  
-
+      <a href="https://www.instagram.com/_woodnotfound/" target="blank">
+        <img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" title="instagram" target="_blank">
+      </a>
+      <a href="https://steamcommunity.com/profiles/76561199027125330/" target="blank">
+        <img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="Steam" title="Steam" target="_blank">
+      </a>
+      <a href="mailto:luccas.formicki@gmail.com?subject=Oiii%20again" target="blank">
+        <img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" title="Email" target="_blank">
+      </a>
   </p>
 
   ## About me
