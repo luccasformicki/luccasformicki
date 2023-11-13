@@ -45,3 +45,5 @@ A fun fact about me: I'm a hardware enthusiast, fascinated by the gears that dri
 ### Studying in this moment:
 ![SalesForce](https://img.shields.io/badge/-SalesForce-0D1117?style=for-the-badge&logo=SalesForce&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+[![Spotify](https://novatorem-o08rjr774-luccasformicki.vercel.app/api/spotify)](https://open.spotify.com/user/LuccasF)
