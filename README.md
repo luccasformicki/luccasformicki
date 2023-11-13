@@ -2,20 +2,14 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4650&pause=1000&color=6AFFD1&background=FFFFFF00&random=false&width=435&lines=Hello+everyone%2C+my+name+is+Luccas;I'm+a+full+stack+developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%8C%90;be+welcome+to+my+profile!+%F0%9F%98%81" alt="Typing SVG" /></a>
   </div>
-  
-<h1></h1>
+
+  ## about me
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccasformicki&color=yellow" alt="Profile views" /> </p>
-<!--
-**luccasformicki/luccasformicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+I'm passionate about technology and innovative solutions that simplify life. I love chatting and socializing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm immersed in programming studies, pursuing a degree in Systems Analysis and Development at FIAP. Throughout my academic journey, I always strive to enhance my skills and knowledge to contribute to my projects.
+
+A fun fact about me: I'm a hardware enthusiast, fascinated by the gears that drive technological innovation.
+
