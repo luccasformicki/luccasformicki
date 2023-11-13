@@ -29,6 +29,8 @@ Currently, I'm immersed in programming studies, pursuing a degree in Systems Ana
 A fun fact about me: I'm a hardware enthusiast, fascinated by the gears that drive technological innovation.
 
 ## Detailed information
+ <img src="https://i.imgur.com/i9EvBnz.png" min-width="300px" max-width="300px" width="300px" align="right">
+
 - **Name**: Luccas Formicki
 - **Age**: 19
 - **Living in**: São paulo - SP, Brazil
