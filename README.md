@@ -22,11 +22,11 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccasformicki&color=yellow" alt="Profile views" /> </p>
 
-I'm passionate about technology and innovative solutions that simplify life. I love chatting and socializing.
+I like to develop projects that help me in my daily routine. I enjoy discussing technology and scientific subjects (feel free to chat if you'd like).
 
-Currently, I'm immersed in programming studies, pursuing a degree in Systems Analysis and Development at FIAP. Throughout my academic journey, I always strive to enhance my skills and knowledge to contribute to my projects.
+Currently, I am studying Systems Analysis and Development.
 
-A fun fact about me: I'm a hardware enthusiast, fascinated by the gears that drive technological innovation.
+A fun fact about me: I am fascinated by shooting games.
 
 ## Detailed information
  <img src="https://i.imgur.com/i9EvBnz.png" min-width="300px" max-width="300px" width="300px" align="right">
