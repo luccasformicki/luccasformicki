@@ -34,7 +34,7 @@ A fun fact about me: I am fascinated by shooting games.
 - **Name**: Luccas Formicki
 - **Age**: 19
 - **Living in**: São paulo - SP, Brazil 
-- **University**: FIAP (Faculdade de Informática e Administração paulista)
+- **University**: FIAP (Faculdade de Informática e Administração paulista) 
 - **Graduation**: Studying Systems Analysis and Development
 
 ### Main skills:
