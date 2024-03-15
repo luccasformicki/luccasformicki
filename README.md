@@ -31,7 +31,7 @@ A fun fact about me: I am fascinated by shooting games.
 ## Detailed information
  <img src="https://i.imgur.com/i9EvBnz.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-- **Name**: Luccas Formicki
+- **Name**: Luccas Pereira Formicki
 - **Age**: 19
 - **Living in**: São paulo - SP, Brazil 
 - **University**: FIAP (Faculdade de Informática e Administração paulista) 
